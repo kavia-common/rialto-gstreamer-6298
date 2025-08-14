@@ -1,0 +1,1107 @@
+2025-08-14 10:02:00,631 - Knowledge - INFO - Redis support added with prefix knowledge:b9357qg:
+2025-08-14 10:02:00,789 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-14 10:02:00,794 - Knowledge - INFO - load persisted knowledge: end
+2025-08-14 10:02:00,794 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-14 10:02:00,796 - Knowledge - INFO - load persisted docinfo: end
+2025-08-14 10:02:00,845 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-14 10:02:00,846 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-14 10:02:00,847 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py from ingest queue
+2025-08-14 10:02:00,851 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-14 10:02:00,852 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-14 10:02:00,853 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py from ingest queue
+2025-08-14 10:02:00,855 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-14 10:02:00,855 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-14 10:02:00,859 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-14 10:02:00,859 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-14 10:02:00,863 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-08-14 10:02:00,864 - Knowledge - INFO - knowledge worker kw5 start
+2025-08-14 10:02:00,867 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-08-14 10:02:00,868 - Knowledge - INFO - knowledge worker kw6 start
+2025-08-14 10:02:00,869 - Knowledge - INFO - worker kw5 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md from ingest queue
+2025-08-14 10:02:00,872 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt from ingest queue
+2025-08-14 10:02:00,877 - Knowledge - INFO - worker kw4 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake from ingest queue
+2025-08-14 10:02:00,880 - Knowledge - INFO - worker kw3 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake from ingest queue
+2025-08-14 10:02:00,881 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-08-14 10:02:00,888 - Knowledge - INFO - knowledge worker kw7 start
+2025-08-14 10:02:00,888 - Knowledge - INFO - worker kw7 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake from ingest queue
+2025-08-14 10:02:00,891 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-08-14 10:02:00,894 - Knowledge - INFO - knowledge worker kw8 start
+2025-08-14 10:02:00,895 - Knowledge - INFO - worker kw8 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h from ingest queue
+2025-08-14 10:02:00,899 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-08-14 10:02:00,900 - Knowledge - INFO - knowledge worker kw9 start
+2025-08-14 10:02:00,901 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h from ingest queue
+2025-08-14 10:02:00,902 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-08-14 10:02:00,902 - Knowledge - INFO - knowledge worker kw10 start
+2025-08-14 10:02:00,903 - Knowledge - INFO - worker kw10 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h from ingest queue
+2025-08-14 10:02:00,908 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-08-14 10:02:00,910 - Knowledge - INFO - knowledge worker kw11 start
+2025-08-14 10:02:00,914 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h from ingest queue
+2025-08-14 10:02:00,915 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:02:00,991 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:00,994 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:02:00,994 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:02:00,995 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:00,998 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:01,003 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,003 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:02:01,005 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-08-14 10:02:01,005 - Knowledge - INFO - knowledge worker kw12 start
+2025-08-14 10:02:01,023 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:01,030 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-08-14 10:02:01,031 - Knowledge - INFO - knowledge worker kw13 start
+2025-08-14 10:02:01,038 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:02:01,038 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-08-14 10:02:01,039 - Knowledge - INFO - knowledge worker kw14 start
+2025-08-14 10:02:01,041 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-08-14 10:02:01,042 - Knowledge - INFO - knowledge worker kw15 start
+2025-08-14 10:02:01,047 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-08-14 10:02:01,050 - Knowledge - INFO - knowledge worker kw16 start
+2025-08-14 10:02:01,091 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-08-14 10:02:01,091 - Knowledge - INFO - knowledge worker kw17 start
+2025-08-14 10:02:01,095 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-08-14 10:02:01,097 - Knowledge - INFO - knowledge worker kw18 start
+2025-08-14 10:02:01,101 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:02:01,103 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:02:01,104 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-08-14 10:02:01,104 - Knowledge - INFO - knowledge worker kw19 start
+2025-08-14 10:02:01,111 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-08-14 10:02:01,112 - Knowledge - INFO - knowledge worker kw20 start
+2025-08-14 10:02:01,115 - Knowledge - WARNING - High connection count: 21 connections active
+2025-08-14 10:02:01,115 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-08-14 10:02:01,116 - Knowledge - INFO - knowledge worker kw21 start
+2025-08-14 10:02:01,118 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:02:01,127 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,127 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,127 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:02:01,127 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,127 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,127 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:01,128 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,128 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:01,128 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,128 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:01,128 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,129 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,129 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:02:01,129 - Knowledge - INFO - worker kw12 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h from ingest queue
+2025-08-14 10:02:01,130 - Knowledge - INFO - worker kw13 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp from ingest queue
+2025-08-14 10:02:01,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,130 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,130 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:01,131 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h from ingest queue
+2025-08-14 10:02:01,132 - Knowledge - INFO - worker kw15 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp from ingest queue
+2025-08-14 10:02:01,133 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,134 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,134 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:02:01,135 - Knowledge - WARNING - High connection count: 22 connections active
+2025-08-14 10:02:01,135 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-08-14 10:02:01,136 - Knowledge - INFO - knowledge worker kw22 start
+2025-08-14 10:02:01,136 - Knowledge - INFO - worker kw16 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp from ingest queue
+2025-08-14 10:02:01,137 - Knowledge - INFO - worker kw17 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h from ingest queue
+2025-08-14 10:02:01,138 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h from ingest queue
+2025-08-14 10:02:01,141 - Knowledge - INFO - worker kw19 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp from ingest queue
+2025-08-14 10:02:01,144 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,144 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,144 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:02:01,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,149 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,149 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:02:01,190 - Knowledge - INFO - worker kw20 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp from ingest queue
+2025-08-14 10:02:01,193 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h from ingest queue
+2025-08-14 10:02:01,197 - Knowledge - WARNING - High connection count: 23 connections active
+2025-08-14 10:02:01,197 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-08-14 10:02:01,203 - Knowledge - INFO - knowledge worker kw23 start
+2025-08-14 10:02:01,206 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:01,206 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:01,206 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:02:01,211 - Knowledge - WARNING - High connection count: 24 connections active
+2025-08-14 10:02:01,211 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-08-14 10:02:01,213 - Knowledge - INFO - knowledge worker kw24 start
+2025-08-14 10:02:01,234 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:02:01,289 - Knowledge - WARNING - High connection count: 25 connections active
+2025-08-14 10:02:01,290 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-08-14 10:02:01,290 - Knowledge - INFO - knowledge worker kw25 start
+2025-08-14 10:02:01,303 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:02:01,304 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:02:01,306 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:02:01,306 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:02:01,307 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:02:01,308 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:02:01,402 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:02:01,402 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:02:01,403 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:02:01,431 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py to ingest queue
+2025-08-14 10:02:01,696 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake to ingest queue
+2025-08-14 10:02:01,922 - Knowledge - INFO - worker kw22 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h from ingest queue
+2025-08-14 10:02:02,011 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:02:02,031 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h to ingest queue
+2025-08-14 10:02:02,031 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h from ingest queue
+2025-08-14 10:02:02,032 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,032 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,033 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:02:02,033 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,033 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,033 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:02:02,034 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,035 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:02:02,126 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:02:02,290 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,291 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,291 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:02:02,291 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,292 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,292 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:02:02,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,293 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:02:02,506 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,506 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,506 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:02:02,507 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,507 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,507 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:02:02,507 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py to ingest queue
+2025-08-14 10:02:02,508 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h from ingest queue
+2025-08-14 10:02:02,513 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt to ingest queue
+2025-08-14 10:02:02,514 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt from ingest queue
+2025-08-14 10:02:02,558 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:02:02,593 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:02:02,615 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake to ingest queue
+2025-08-14 10:02:02,616 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h to ingest queue
+2025-08-14 10:02:02,616 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h to ingest queue
+2025-08-14 10:02:02,617 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,617 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,618 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:02:02,618 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp from ingest queue
+2025-08-14 10:02:02,619 - Knowledge - INFO - worker kw25 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h from ingest queue
+2025-08-14 10:02:02,620 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h from ingest queue
+2025-08-14 10:02:02,694 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:02:02,694 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:02:02,695 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:02:02,803 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,803 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,803 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:02:02,804 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,805 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,805 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:02:02,917 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h to ingest queue
+2025-08-14 10:02:02,997 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:02,997 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:02,997 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:02:03,051 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp to ingest queue
+2025-08-14 10:02:03,107 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md to ingest queue
+2025-08-14 10:02:03,108 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h to ingest queue
+2025-08-14 10:02:03,109 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake to ingest queue
+2025-08-14 10:02:03,109 - Knowledge - INFO - worker kw3 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp from ingest queue
+2025-08-14 10:02:03,110 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,110 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,110 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:02:03,113 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h to ingest queue
+2025-08-14 10:02:03,151 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:02:03,171 - Knowledge - INFO - worker kw7 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h from ingest queue
+2025-08-14 10:02:03,171 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h from ingest queue
+2025-08-14 10:02:03,172 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,172 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,172 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:02:03,173 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,173 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,173 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:02:03,174 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h to ingest queue
+2025-08-14 10:02:03,216 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:02:03,217 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:02:03,244 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h to ingest queue
+2025-08-14 10:02:03,309 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h to ingest queue
+2025-08-14 10:02:03,309 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp from ingest queue
+2025-08-14 10:02:03,310 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h to ingest queue
+2025-08-14 10:02:03,311 - Knowledge - INFO - worker kw16 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp from ingest queue
+2025-08-14 10:02:03,314 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h from ingest queue
+2025-08-14 10:02:03,314 - Knowledge - INFO - worker kw4 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp from ingest queue
+2025-08-14 10:02:03,359 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:02:03,400 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:02:03,401 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-14 10:02:03,401 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:02:03,415 - Knowledge - INFO - worker kw10 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h from ingest queue
+2025-08-14 10:02:03,416 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,416 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,416 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:02:03,417 - Knowledge - INFO - worker kw8 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp from ingest queue
+2025-08-14 10:02:03,419 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,419 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,419 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:02:03,454 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:02:03,491 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:02:03,508 - Knowledge - INFO - worker kw12 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp from ingest queue
+2025-08-14 10:02:03,509 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,510 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,510 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:02:03,510 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp to ingest queue
+2025-08-14 10:02:03,511 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp from ingest queue
+2025-08-14 10:02:03,511 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp to ingest queue
+2025-08-14 10:02:03,512 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp to ingest queue
+2025-08-14 10:02:03,513 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h from ingest queue
+2025-08-14 10:02:03,517 - Knowledge - INFO - worker kw5 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h from ingest queue
+2025-08-14 10:02:03,518 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,518 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,518 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:02:03,520 - Knowledge - INFO - worker kw17 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h from ingest queue
+2025-08-14 10:02:03,522 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,522 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,522 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:02:03,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,523 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:02:03,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,524 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,524 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-14 10:02:03,526 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h to ingest queue
+2025-08-14 10:02:03,588 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h to ingest queue
+2025-08-14 10:02:03,589 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h from ingest queue
+2025-08-14 10:02:03,609 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:02:03,691 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:02:03,701 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:02:03,702 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:02:03,703 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:02:03,704 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:02:03,726 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,726 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,726 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:02:03,726 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,726 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,726 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:02:03,727 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h to ingest queue
+2025-08-14 10:02:03,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,727 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,727 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:02:03,810 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h to ingest queue
+2025-08-14 10:02:03,863 - Knowledge - INFO - worker kw15 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html from ingest queue
+2025-08-14 10:02:03,864 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml from ingest queue
+2025-08-14 10:02:03,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:03,865 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:03,865 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:02:03,909 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:02:03,910 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:02:04,007 - Knowledge - INFO - worker kw22 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md from ingest queue
+2025-08-14 10:02:04,033 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:02:04,095 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,095 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,095 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:02:04,095 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,095 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,095 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:02:04,096 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,096 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,096 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:02:04,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,155 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,155 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:02:04,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,156 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,156 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:02:04,234 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp to ingest queue
+2025-08-14 10:02:04,345 - Knowledge - INFO - worker kw25 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt from ingest queue
+2025-08-14 10:02:04,345 - Knowledge - INFO - worker kw13 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp from ingest queue
+2025-08-14 10:02:04,346 - Knowledge - INFO - worker kw7 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp from ingest queue
+2025-08-14 10:02:04,348 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp to ingest queue
+2025-08-14 10:02:04,395 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:02:04,403 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:02:04,404 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:02:04,502 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,502 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,502 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:02:04,502 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,503 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,503 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:02:04,503 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h to ingest queue
+2025-08-14 10:02:04,503 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp from ingest queue
+2025-08-14 10:02:04,535 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:02:04,564 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h to ingest queue
+2025-08-14 10:02:04,564 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp to ingest queue
+2025-08-14 10:02:04,619 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h to ingest queue
+2025-08-14 10:02:04,619 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp to ingest queue
+2025-08-14 10:02:04,688 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp to ingest queue
+2025-08-14 10:02:04,689 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp from ingest queue
+2025-08-14 10:02:04,690 - Knowledge - INFO - worker kw20 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp from ingest queue
+2025-08-14 10:02:04,732 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:02:04,733 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:02:04,788 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,788 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,788 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:02:04,789 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,789 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,789 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:02:04,789 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,789 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,789 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:02:04,790 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp to ingest queue
+2025-08-14 10:02:04,907 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html to ingest queue
+2025-08-14 10:02:04,907 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp to ingest queue
+2025-08-14 10:02:04,963 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:04,964 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:04,964 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:02:04,964 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp from ingest queue
+2025-08-14 10:02:04,995 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:02:05,025 - Knowledge - INFO - worker kw12 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt from ingest queue
+2025-08-14 10:02:05,026 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h to ingest queue
+2025-08-14 10:02:05,026 - Knowledge - INFO - worker kw10 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp from ingest queue
+2025-08-14 10:02:05,027 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h to ingest queue
+2025-08-14 10:02:05,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,028 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,028 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:02:05,058 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:02:05,090 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:02:05,115 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt to ingest queue
+2025-08-14 10:02:05,173 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp to ingest queue
+2025-08-14 10:02:05,173 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp from ingest queue
+2025-08-14 10:02:05,175 - Knowledge - INFO - worker kw15 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp from ingest queue
+2025-08-14 10:02:05,177 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,177 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,177 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:02:05,177 - Knowledge - INFO - worker kw4 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp from ingest queue
+2025-08-14 10:02:05,181 - Knowledge - INFO - worker kw3 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h from ingest queue
+2025-08-14 10:02:05,188 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,188 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,188 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:02:05,223 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:02:05,224 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:02:05,240 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:02:05,241 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:02:05,294 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h to ingest queue
+2025-08-14 10:02:05,294 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp to ingest queue
+2025-08-14 10:02:05,295 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,295 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,295 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:02:05,296 - Knowledge - INFO - worker kw19 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h from ingest queue
+2025-08-14 10:02:05,297 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h to ingest queue
+2025-08-14 10:02:05,297 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h from ingest queue
+2025-08-14 10:02:05,389 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:02:05,390 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:02:05,404 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,404 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,404 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:02:05,404 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,405 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,405 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:02:05,407 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt from ingest queue
+2025-08-14 10:02:05,488 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:02:05,516 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp to ingest queue
+2025-08-14 10:02:05,517 - Knowledge - INFO - worker kw16 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h from ingest queue
+2025-08-14 10:02:05,518 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp to ingest queue
+2025-08-14 10:02:05,544 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:02:05,578 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,578 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,578 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:02:05,579 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,579 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,579 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:02:05,579 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,579 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,579 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:02:05,580 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,580 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,580 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:02:05,580 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h from ingest queue
+2025-08-14 10:02:05,581 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h from ingest queue
+2025-08-14 10:02:05,589 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h to ingest queue
+2025-08-14 10:02:05,589 - Knowledge - INFO - worker kw8 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md from ingest queue
+2025-08-14 10:02:05,591 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,591 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,591 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:02:05,595 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,595 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,595 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:02:05,595 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,595 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,595 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:02:05,631 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:02:05,638 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:02:05,638 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:02:05,658 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt to ingest queue
+2025-08-14 10:02:05,658 - Knowledge - INFO - worker kw25 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md from ingest queue
+2025-08-14 10:02:05,688 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,688 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:02:05,689 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py from ingest queue
+2025-08-14 10:02:05,690 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml to ingest queue
+2025-08-14 10:02:05,719 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:02:05,729 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:02:05,753 - Knowledge - INFO - worker kw7 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py from ingest queue
+2025-08-14 10:02:05,753 - Knowledge - INFO - Thread kw7 - File process_clang-format_errors.py - Remaining files in queue: 47
+2025-08-14 10:02:05,753 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:02:05,754 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:05,754 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:05,754 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:02:05,898 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp to ingest queue
+2025-08-14 10:02:05,898 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake from ingest queue
+2025-08-14 10:02:05,898 - Knowledge - INFO - Thread kw2 - File FindocdmRialto.cmake - Remaining files in queue: 47
+2025-08-14 10:02:05,898 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:02:06,097 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h from ingest queue
+2025-08-14 10:02:06,097 - Knowledge - INFO - Thread kw18 - File ControlBackendInterface.h - Remaining files in queue: 46
+2025-08-14 10:02:06,097 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:02:06,635 - Knowledge - INFO - worker kw5 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py from ingest queue
+2025-08-14 10:02:06,635 - Knowledge - INFO - Thread kw5 - File process_valgrind_results.py - Remaining files in queue: 45
+2025-08-14 10:02:06,636 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:02:06,636 - Knowledge - INFO - worker kw17 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt from ingest queue
+2025-08-14 10:02:06,636 - Knowledge - INFO - Thread kw17 - File CMakeLists.txt - Remaining files in queue: 44
+2025-08-14 10:02:06,636 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:06,691 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:06,691 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:06,692 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:07,078 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,078 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,078 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:02:07,078 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,078 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,078 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:02:07,079 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,079 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,079 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:02:07,081 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt to ingest queue
+2025-08-14 10:02:07,213 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake from ingest queue
+2025-08-14 10:02:07,213 - Knowledge - INFO - Thread kw21 - File FindRialto.cmake - Remaining files in queue: 44
+2025-08-14 10:02:07,214 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:07,214 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,214 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,214 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:02:07,214 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md to ingest queue
+2025-08-14 10:02:07,364 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp to ingest queue
+2025-08-14 10:02:07,364 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp to ingest queue
+2025-08-14 10:02:07,365 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp to ingest queue
+2025-08-14 10:02:07,365 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp to ingest queue
+2025-08-14 10:02:07,365 - Knowledge - INFO - worker kw20 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h from ingest queue
+2025-08-14 10:02:07,365 - Knowledge - INFO - Thread kw20 - File RialtoGStreamerMSEBaseSinkCallbacks.h - Remaining files in queue: 48
+2025-08-14 10:02:07,366 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:02:07,493 - Knowledge - INFO - worker kw12 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h from ingest queue
+2025-08-14 10:02:07,493 - Knowledge - INFO - Thread kw12 - File MessageQueue.h - Remaining files in queue: 47
+2025-08-14 10:02:07,493 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:02:07,493 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp to ingest queue
+2025-08-14 10:02:07,494 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp to ingest queue
+2025-08-14 10:02:07,494 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt to ingest queue
+2025-08-14 10:02:07,495 - Knowledge - INFO - worker kw22 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h from ingest queue
+2025-08-14 10:02:07,495 - Knowledge - INFO - Thread kw22 - File GStreamerEMEUtils.h - Remaining files in queue: 49
+2025-08-14 10:02:07,495 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:02:07,495 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h to ingest queue
+2025-08-14 10:02:07,496 - Knowledge - INFO - worker kw15 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp from ingest queue
+2025-08-14 10:02:07,496 - Knowledge - INFO - Thread kw15 - File GStreamerMSEMediaPlayerClient.cpp - Remaining files in queue: 49
+2025-08-14 10:02:07,496 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:02:07,497 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h to ingest queue
+2025-08-14 10:02:07,498 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md from ingest queue
+2025-08-14 10:02:07,498 - Knowledge - INFO - Thread kw11 - File TERMS.md - Remaining files in queue: 49
+2025-08-14 10:02:07,498 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:07,498 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h to ingest queue
+2025-08-14 10:02:07,499 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h to ingest queue
+2025-08-14 10:02:07,500 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h to ingest queue
+2025-08-14 10:02:07,500 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,500 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,500 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:02:07,501 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:07,501 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:07,501 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:07,502 - Knowledge - INFO - worker kw13 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h from ingest queue
+2025-08-14 10:02:07,502 - Knowledge - INFO - Thread kw13 - File RialtoGStreamerMSEVideoSink.h - Remaining files in queue: 51
+2025-08-14 10:02:07,502 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:02:07,502 - Knowledge - INFO - worker kw10 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake from ingest queue
+2025-08-14 10:02:07,502 - Knowledge - INFO - Thread kw10 - File googletest.cmake - Remaining files in queue: 50
+2025-08-14 10:02:07,503 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:07,651 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h from ingest queue
+2025-08-14 10:02:07,651 - Knowledge - INFO - Thread kw6 - File RialtoGStreamerWebAudioSink.h - Remaining files in queue: 49
+2025-08-14 10:02:07,652 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:02:07,767 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,767 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,767 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CMakeLists.txt
+2025-08-14 10:02:07,767 - Knowledge - INFO - worker kw16 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h from ingest queue
+2025-08-14 10:02:07,768 - Knowledge - INFO - Thread kw16 - File RialtoGStreamerMSEBaseSink.h - Remaining files in queue: 48
+2025-08-14 10:02:07,768 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:02:07,768 - Knowledge - INFO - worker kw3 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h from ingest queue
+2025-08-14 10:02:07,768 - Knowledge - INFO - Thread kw3 - File GStreamerWebAudioPlayerClient.h - Remaining files in queue: 47
+2025-08-14 10:02:07,769 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:02:07,788 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h from ingest queue
+2025-08-14 10:02:07,788 - Knowledge - INFO - Thread kw23 - File WebAudioClientBackendInterface.h - Remaining files in queue: 46
+2025-08-14 10:02:07,790 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:02:07,908 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h to ingest queue
+2025-08-14 10:02:07,909 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h from ingest queue
+2025-08-14 10:02:07,909 - Knowledge - INFO - Thread kw14 - File MediaPlayerClientBackend.h - Remaining files in queue: 46
+2025-08-14 10:02:07,909 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:02:07,909 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp from ingest queue
+2025-08-14 10:02:07,909 - Knowledge - INFO - Thread kw1 - File Timer.cpp - Remaining files in queue: 45
+2025-08-14 10:02:07,910 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:02:07,910 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:07,910 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:07,910 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/TERMS.md
+2025-08-14 10:02:08,070 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp to ingest queue
+2025-08-14 10:02:08,070 - Knowledge - INFO - worker kw19 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp from ingest queue
+2025-08-14 10:02:08,070 - Knowledge - INFO - Thread kw19 - File BufferParser.cpp - Remaining files in queue: 45
+2025-08-14 10:02:08,070 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:02:08,071 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md to ingest queue
+2025-08-14 10:02:08,174 - Knowledge - INFO - worker kw17 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp from ingest queue
+2025-08-14 10:02:08,174 - Knowledge - INFO - Thread kw17 - File GStreamerUtils.cpp - Remaining files in queue: 45
+2025-08-14 10:02:08,175 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:02:08,290 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py to ingest queue
+2025-08-14 10:02:08,290 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h from ingest queue
+2025-08-14 10:02:08,291 - Knowledge - INFO - Thread kw24 - File GStreamerMSEUtils.h - Remaining files in queue: 45
+2025-08-14 10:02:08,291 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:02:08,291 - Knowledge - INFO - adding /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md to ingest queue
+2025-08-14 10:02:08,292 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h from ingest queue
+2025-08-14 10:02:08,292 - Knowledge - INFO - Thread kw9 - File MediaPlayerManager.h - Remaining files in queue: 45
+2025-08-14 10:02:08,292 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:02:08,293 - Knowledge - INFO - worker kw25 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h from ingest queue
+2025-08-14 10:02:08,293 - Knowledge - INFO - Thread kw25 - File GStreamerUtils.h - Remaining files in queue: 44
+2025-08-14 10:02:08,294 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:02:08,303 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h from ingest queue
+2025-08-14 10:02:08,304 - Knowledge - INFO - Thread kw11 - File WebAudioClientBackend.h - Remaining files in queue: 43
+2025-08-14 10:02:08,304 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:02:08,305 - Knowledge - INFO - worker kw4 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp from ingest queue
+2025-08-14 10:02:08,305 - Knowledge - INFO - Thread kw4 - File GStreamerMSEUtils.cpp - Remaining files in queue: 42
+2025-08-14 10:02:08,305 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:02:08,305 - Knowledge - INFO - worker kw8 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp from ingest queue
+2025-08-14 10:02:08,305 - Knowledge - INFO - Thread kw8 - File RialtoGStreamerMSEAudioSink.cpp - Remaining files in queue: 41
+2025-08-14 10:02:08,306 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:02:25,293 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:25,293 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:25,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:25,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:25,293 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindRialto.cmake
+2025-08-14 10:02:25,825 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h from ingest queue
+2025-08-14 10:02:25,825 - Knowledge - INFO - Thread kw21 - File RialtoGStreamerMSEBaseSinkPrivate.h - Remaining files in queue: 40
+2025-08-14 10:02:25,825 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:02:29,698 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:29,698 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:29,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:02:29,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:02:29,698 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/googletest.cmake
+2025-08-14 10:02:30,408 - Knowledge - INFO - worker kw10 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h from ingest queue
+2025-08-14 10:02:30,408 - Knowledge - INFO - Thread kw10 - File GStreamerMSEMediaPlayerClient.h - Remaining files in queue: 39
+2025-08-14 10:02:30,408 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:03:17,724 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:03:17,917 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:03:17,917 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:17,917 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:17,918 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.h
+2025-08-14 10:03:19,997 - Knowledge - INFO - persist search terms embedding for source/GStreamerMSEUtils.h
+2025-08-14 10:03:20,000 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp from ingest queue
+2025-08-14 10:03:20,000 - Knowledge - INFO - Thread kw24 - File MediaPlayerManager.cpp - Remaining files in queue: 38
+2025-08-14 10:03:20,000 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:03:26,295 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:03:26,407 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:03:26,407 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:26,407 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:26,408 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackendInterface.h
+2025-08-14 10:03:28,320 - Knowledge - INFO - persist search terms embedding for source/ControlBackendInterface.h
+2025-08-14 10:03:28,320 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h from ingest queue
+2025-08-14 10:03:28,321 - Knowledge - INFO - Thread kw18 - File RialtoGStreamerMSEVideoSinkPrivate.h - Remaining files in queue: 37
+2025-08-14 10:03:28,321 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:03:28,896 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:03:29,008 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:03:29,008 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:29,008 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:29,008 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.h
+2025-08-14 10:03:30,116 - Knowledge - INFO - persist search terms embedding for source/GStreamerEMEUtils.h
+2025-08-14 10:03:30,120 - Knowledge - INFO - worker kw22 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp from ingest queue
+2025-08-14 10:03:30,120 - Knowledge - INFO - Thread kw22 - File GStreamerWebAudioPlayerClient.cpp - Remaining files in queue: 36
+2025-08-14 10:03:30,120 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:03:31,007 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:03:31,198 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:03:31,198 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:31,199 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:31,199 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:03:32,118 - Knowledge - INFO - persist search terms embedding for scripts/valgrind/process_valgrind_results.py
+2025-08-14 10:03:32,128 - Knowledge - INFO - worker kw5 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp from ingest queue
+2025-08-14 10:03:32,128 - Knowledge - INFO - Thread kw5 - File RialtoGStreamerWebAudioSink.cpp - Remaining files in queue: 35
+2025-08-14 10:03:32,128 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:03:33,508 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:03:33,699 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:03:33,699 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:33,699 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:33,699 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:03:34,933 - Knowledge - INFO - persist search terms embedding for scripts/clang-format/process_clang-format_errors.py
+2025-08-14 10:03:34,946 - Knowledge - INFO - worker kw7 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp from ingest queue
+2025-08-14 10:03:34,946 - Knowledge - INFO - Thread kw7 - File GStreamerEMEUtils.cpp - Remaining files in queue: 34
+2025-08-14 10:03:34,947 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:03:40,022 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:03:40,115 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:03:40,115 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:40,115 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:40,115 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.h
+2025-08-14 10:03:41,299 - Knowledge - INFO - persist search terms embedding for source/MediaPlayerManager.h
+2025-08-14 10:03:41,304 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html from ingest queue
+2025-08-14 10:03:41,304 - Knowledge - INFO - Thread kw9 - File index.html - Remaining files in queue: 33
+2025-08-14 10:03:41,305 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:03:52,318 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:03:52,422 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:03:52,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:52,422 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:52,422 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEUtils.cpp
+2025-08-14 10:03:53,830 - Knowledge - INFO - persist search terms embedding for source/GStreamerMSEUtils.cpp
+2025-08-14 10:03:53,891 - Knowledge - INFO - worker kw4 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp from ingest queue
+2025-08-14 10:03:53,892 - Knowledge - INFO - Thread kw4 - File RialtoGStreamerMSEBaseSink.cpp - Remaining files in queue: 32
+2025-08-14 10:03:53,892 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-14 10:03:54,425 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:03:54,506 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:03:54,506 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:54,507 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:54,507 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.h
+2025-08-14 10:03:55,591 - Knowledge - INFO - persist search terms embedding for source/GStreamerUtils.h
+2025-08-14 10:03:55,602 - Knowledge - INFO - worker kw25 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h from ingest queue
+2025-08-14 10:03:55,602 - Knowledge - INFO - Thread kw25 - File MediaPlayerClientBackendInterface.h - Remaining files in queue: 31
+2025-08-14 10:03:55,602 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:03:57,917 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:03:58,099 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:03:58,099 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:03:58,099 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:03:58,099 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:03:59,202 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-14 10:03:59,206 - Knowledge - INFO - worker kw20 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h from ingest queue
+2025-08-14 10:03:59,206 - Knowledge - INFO - Thread kw20 - File BufferParser.h - Remaining files in queue: 30
+2025-08-14 10:03:59,206 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:04:04,435 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:04:04,608 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:04:04,608 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:04,609 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:04,609 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackend.h
+2025-08-14 10:04:06,632 - Knowledge - INFO - persist search terms embedding for source/WebAudioClientBackend.h
+2025-08-14 10:04:06,633 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt from ingest queue
+2025-08-14 10:04:06,633 - Knowledge - INFO - Thread kw11 - File CMakeLists.txt - Remaining files in queue: 29
+2025-08-14 10:04:06,634 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:04:06,691 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:04:06,692 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:04:06,692 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:04:06,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:06,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:06,692 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/CMakeLists.txt
+2025-08-14 10:04:07,216 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp from ingest queue
+2025-08-14 10:04:07,216 - Knowledge - INFO - Thread kw11 - File RialtoGSteamerPlugin.cpp - Remaining files in queue: 28
+2025-08-14 10:04:07,216 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:04:08,408 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:04:08,408 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:04:08,408 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:08,409 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:08,409 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/docs/index.html
+2025-08-14 10:04:08,915 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h from ingest queue
+2025-08-14 10:04:08,915 - Knowledge - INFO - Thread kw9 - File ControlBackend.h - Remaining files in queue: 27
+2025-08-14 10:04:08,915 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:04:10,389 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:04:10,501 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:04:10,502 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:10,502 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:10,502 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerUtils.cpp
+2025-08-14 10:04:11,305 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:04:11,590 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:04:11,998 - Knowledge - INFO - persist search terms embedding for source/GStreamerUtils.cpp
+2025-08-14 10:04:12,006 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:12,006 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:12,006 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.cpp
+2025-08-14 10:04:12,014 - Knowledge - INFO - worker kw17 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp from ingest queue
+2025-08-14 10:04:12,014 - Knowledge - INFO - Thread kw17 - File RialtoGStreamerMSEVideoSink.cpp - Remaining files in queue: 26
+2025-08-14 10:04:12,014 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:04:13,303 - Knowledge - INFO - persist search terms embedding for source/Timer.cpp
+2025-08-14 10:04:13,316 - Knowledge - INFO - worker kw1 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h from ingest queue
+2025-08-14 10:04:13,316 - Knowledge - INFO - Thread kw1 - File Timer.h - Remaining files in queue: 25
+2025-08-14 10:04:13,317 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:04:17,726 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:04:17,897 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:04:17,898 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:17,898 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:17,898 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:04:19,107 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-14 10:04:19,111 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp from ingest queue
+2025-08-14 10:04:19,111 - Knowledge - INFO - Thread kw21 - File MediaPipelineFactory.cpp - Remaining files in queue: 24
+2025-08-14 10:04:19,111 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:04:25,409 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:04:25,409 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:04:25,410 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:25,410 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:25,410 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cmake/FindocdmRialto.cmake
+2025-08-14 10:04:26,420 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:04:26,695 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:04:27,291 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:04:27,403 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:04:27,911 - Knowledge - INFO - persist search terms embedding for cmake/FindocdmRialto.cmake
+2025-08-14 10:04:27,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:27,914 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:27,914 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:04:27,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:27,915 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:27,915 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/WebAudioClientBackendInterface.h
+2025-08-14 10:04:27,917 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp from ingest queue
+2025-08-14 10:04:27,917 - Knowledge - INFO - Thread kw2 - File WebAudioPlayerFactory.cpp - Remaining files in queue: 23
+2025-08-14 10:04:27,917 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:04:30,502 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:04:30,593 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:04:30,701 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEVideoSink.h
+2025-08-14 10:04:30,707 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:04:30,708 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:04:31,916 - Knowledge - INFO - persist search terms embedding for source/WebAudioClientBackendInterface.h
+2025-08-14 10:04:31,920 - Knowledge - INFO - worker kw13 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h from ingest queue
+2025-08-14 10:04:31,920 - Knowledge - INFO - Thread kw13 - File RialtoGStreamerMSEAudioSink.h - Remaining files in queue: 22
+2025-08-14 10:04:31,921 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:04:31,923 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:31,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:31,923 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:04:31,990 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt from ingest queue
+2025-08-14 10:04:31,990 - Knowledge - INFO - Thread kw23 - File CMakeLists.txt - Remaining files in queue: 21
+2025-08-14 10:04:31,991 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:04:32,008 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:32,008 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:32,008 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:04:32,012 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:04:32,012 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:04:32,012 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:04:33,817 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-14 10:04:35,115 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerWebAudioSink.h
+2025-08-14 10:04:35,193 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:35,193 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:35,193 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/CMakeLists.txt
+2025-08-14 10:04:35,199 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml from ingest queue
+2025-08-14 10:04:35,200 - Knowledge - INFO - Thread kw18 - File cppcheck_suppressions.xml - Remaining files in queue: 20
+2025-08-14 10:04:35,211 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:04:35,309 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:04:35,309 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:04:35,309 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:04:35,793 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp from ingest queue
+2025-08-14 10:04:35,793 - Knowledge - INFO - Thread kw6 - File MediaPipelineCapabilitiesFactory.cpp - Remaining files in queue: 19
+2025-08-14 10:04:35,793 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:04:35,796 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:35,796 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:35,796 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/cppcheck_suppressions.xml
+2025-08-14 10:04:35,797 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt from ingest queue
+2025-08-14 10:04:35,797 - Knowledge - INFO - Thread kw23 - File CMakeLists.txt - Remaining files in queue: 18
+2025-08-14 10:04:35,798 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:04:35,891 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:04:35,891 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:04:35,892 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:04:36,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:36,491 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:36,491 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/CMakeLists.txt
+2025-08-14 10:04:36,497 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md from ingest queue
+2025-08-14 10:04:36,497 - Knowledge - INFO - Thread kw18 - File README.md - Remaining files in queue: 17
+2025-08-14 10:04:36,497 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:04:36,602 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:04:36,602 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:04:36,602 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:04:37,195 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:04:37,195 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:04:37,196 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/README.md
+2025-08-14 10:04:37,206 - Knowledge - INFO - worker kw23 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp from ingest queue
+2025-08-14 10:04:37,206 - Knowledge - INFO - Thread kw23 - File BufferParserTests.cpp - Remaining files in queue: 16
+2025-08-14 10:04:37,211 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:04:38,089 - Knowledge - INFO - worker kw18 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp from ingest queue
+2025-08-14 10:04:38,089 - Knowledge - INFO - Thread kw18 - File WebAudioClientBackendTests.cpp - Remaining files in queue: 15
+2025-08-14 10:04:38,089 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:05:07,396 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:05:07,508 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:05:07,508 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:05:07,508 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:05:07,509 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.cpp
+2025-08-14 10:05:09,392 - Knowledge - INFO - persist search terms embedding for source/BufferParser.cpp
+2025-08-14 10:05:09,395 - Knowledge - INFO - worker kw19 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp from ingest queue
+2025-08-14 10:05:09,395 - Knowledge - INFO - Thread kw19 - File GStreamerEmeUtilsTests.cpp - Remaining files in queue: 14
+2025-08-14 10:05:09,395 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:05:47,201 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:05:47,389 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:05:47,390 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:05:47,390 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:05:47,390 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:05:48,913 - Knowledge - INFO - persist search terms embedding for source/RialtoGSteamerPlugin.cpp
+2025-08-14 10:05:48,925 - Knowledge - INFO - worker kw11 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp from ingest queue
+2025-08-14 10:05:48,926 - Knowledge - INFO - Thread kw11 - File MediaPlayerClientBackendTests.cpp - Remaining files in queue: 13
+2025-08-14 10:05:48,926 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:05:52,199 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:05:52,512 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:05:52,513 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:05:52,513 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:05:52,513 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:05:54,288 - Knowledge - INFO - persist search terms embedding for tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-14 10:05:54,297 - Knowledge - INFO - worker kw21 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp from ingest queue
+2025-08-14 10:05:54,301 - Knowledge - INFO - Thread kw21 - File ControlFactory.cpp - Remaining files in queue: 12
+2025-08-14 10:05:54,301 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:06:05,002 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:06:05,091 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:06:05,208 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:06:05,208 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:05,208 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:05,208 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:06:05,298 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:06:05,403 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:06:05,601 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:06:07,510 - Knowledge - INFO - persist search terms embedding for source/GStreamerWebAudioPlayerClient.h
+2025-08-14 10:06:07,594 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:07,594 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:07,594 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackend.h
+2025-08-14 10:06:07,598 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:07,598 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:07,599 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:06:09,111 - Knowledge - INFO - persist search terms embedding for source/MediaPlayerClientBackend.h
+2025-08-14 10:06:09,188 - Knowledge - INFO - worker kw3 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp from ingest queue
+2025-08-14 10:06:09,188 - Knowledge - INFO - Thread kw3 - File ControlBackendTests.cpp - Remaining files in queue: 11
+2025-08-14 10:06:09,189 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:06:11,189 - Knowledge - INFO - persist search terms embedding for tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-14 10:06:11,194 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt from ingest queue
+2025-08-14 10:06:11,194 - Knowledge - INFO - Thread kw14 - File CMakeLists.txt - Remaining files in queue: 10
+2025-08-14 10:06:11,194 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:06:11,194 - Knowledge - INFO - worker kw6 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h from ingest queue
+2025-08-14 10:06:11,194 - Knowledge - INFO - Thread kw6 - File ControlMock.h - Remaining files in queue: 9
+2025-08-14 10:06:11,195 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:06:11,299 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:06:11,299 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:06:11,299 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:06:11,299 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:11,299 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:11,300 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/CMakeLists.txt
+2025-08-14 10:06:11,507 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:06:11,702 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:06:12,006 - Knowledge - INFO - worker kw14 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h from ingest queue
+2025-08-14 10:06:12,006 - Knowledge - INFO - Thread kw14 - File MediaPipelineCapabilitiesMock.h - Remaining files in queue: 8
+2025-08-14 10:06:12,006 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:06:12,012 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:12,013 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:12,013 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:06:13,800 - Knowledge - INFO - persist search terms embedding for tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-14 10:06:13,897 - Knowledge - INFO - worker kw2 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h from ingest queue
+2025-08-14 10:06:13,897 - Knowledge - INFO - Thread kw2 - File MediaPipelineMock.h - Remaining files in queue: 7
+2025-08-14 10:06:13,897 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:06:20,790 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:06:20,993 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:06:20,994 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:20,994 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:20,994 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MessageQueue.h
+2025-08-14 10:06:23,003 - Knowledge - INFO - persist search terms embedding for source/MessageQueue.h
+2025-08-14 10:06:23,005 - Knowledge - INFO - worker kw12 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h from ingest queue
+2025-08-14 10:06:23,005 - Knowledge - INFO - Thread kw12 - File WebAudioPlayerClientMock.h - Remaining files in queue: 6
+2025-08-14 10:06:23,005 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:06:33,415 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:06:33,792 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:06:33,793 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:33,793 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:33,793 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerManager.cpp
+2025-08-14 10:06:35,692 - Knowledge - INFO - persist search terms embedding for source/MediaPlayerManager.cpp
+2025-08-14 10:06:35,697 - Knowledge - INFO - worker kw24 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h from ingest queue
+2025-08-14 10:06:35,698 - Knowledge - INFO - Thread kw24 - File WebAudioPlayerMock.h - Remaining files in queue: 5
+2025-08-14 10:06:35,698 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:06:45,011 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:06:45,214 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:06:45,215 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:45,215 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:45,215 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:06:46,807 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-14 10:06:46,889 - Knowledge - INFO - worker kw8 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h from ingest queue
+2025-08-14 10:06:46,889 - Knowledge - INFO - Thread kw8 - File MediaPipelineClientMock.h - Remaining files in queue: 4
+2025-08-14 10:06:46,889 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:06:53,810 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:06:54,003 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:06:54,003 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:06:54,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:06:54,004 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/BufferParser.h
+2025-08-14 10:06:55,691 - Knowledge - INFO - persist search terms embedding for source/BufferParser.h
+2025-08-14 10:06:55,696 - Knowledge - INFO - worker kw20 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp from ingest queue
+2025-08-14 10:06:55,696 - Knowledge - INFO - Thread kw20 - File GStreamerUtilsTests.cpp - Remaining files in queue: 3
+2025-08-14 10:06:55,696 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:07:03,889 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:07:03,999 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:07:03,999 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:07:03,999 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:07:04,000 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/ControlBackend.h
+2025-08-14 10:07:06,208 - Knowledge - INFO - persist search terms embedding for source/ControlBackend.h
+2025-08-14 10:07:06,209 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md from ingest queue
+2025-08-14 10:07:06,209 - Knowledge - INFO - Thread kw9 - File CHANGELOG.md - Remaining files in queue: 2
+2025-08-14 10:07:06,209 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:07:06,295 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:07:06,295 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:07:06,295 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:07:06,295 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:07:06,295 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:07:06,295 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CHANGELOG.md
+2025-08-14 10:07:07,407 - Knowledge - INFO - worker kw9 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py from ingest queue
+2025-08-14 10:07:07,407 - Knowledge - INFO - Thread kw9 - File build_ut.py - Remaining files in queue: 1
+2025-08-14 10:07:07,407 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:07:26,603 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:07:26,711 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:07:26,711 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:07:26,711 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:07:26,711 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:07:28,991 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEAudioSink.h
+2025-08-14 10:07:28,994 - Knowledge - INFO - worker kw13 pull /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md from ingest queue
+2025-08-14 10:07:28,994 - Knowledge - INFO - Thread kw13 - File CONTRIBUTING.md - Remaining files in queue: 0
+2025-08-14 10:07:28,994 - Knowledge - INFO - start ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:07:29,010 - Knowledge - INFO - Fast-track processing for simple file: /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:07:29,010 - Knowledge - INFO - done fast ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:07:29,011 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:07:29,011 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:07:29,011 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:07:29,011 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/CONTRIBUTING.md
+2025-08-14 10:07:37,210 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:07:37,309 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:07:37,309 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:07:37,310 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:07:37,310 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/BufferParserTests.cpp
+2025-08-14 10:07:39,501 - Knowledge - INFO - persist search terms embedding for tests/ut/BufferParserTests.cpp
+2025-08-14 10:08:13,000 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:08:13,219 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:08:13,294 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:08:13,294 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:08:13,295 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:08:15,702 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:08:15,711 - Knowledge - INFO - persist search terms embedding for tests/third-party/source/ControlFactory.cpp
+2025-08-14 10:08:15,994 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:08:16,014 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:08:16,014 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:08:16,014 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerEMEUtils.cpp
+2025-08-14 10:08:17,710 - Knowledge - INFO - persist search terms embedding for source/GStreamerEMEUtils.cpp
+2025-08-14 10:08:19,602 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:08:19,801 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:08:19,900 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:08:19,900 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:08:19,900 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/Timer.h
+2025-08-14 10:08:21,415 - Knowledge - INFO - persist search terms embedding for source/Timer.h
+2025-08-14 10:08:27,616 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:08:27,795 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:08:27,891 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:08:27,891 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:08:27,891 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:08:29,791 - Knowledge - INFO - persist search terms embedding for tests/mocks/WebAudioPlayerClientMock.h
+2025-08-14 10:09:00,297 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:09:00,699 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:09:00,810 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:00,810 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:00,810 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:09:03,195 - Knowledge - INFO - persist search terms embedding for tests/ut/GStreamerUtilsTests.cpp
+2025-08-14 10:09:05,804 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:09:05,993 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:09:06,015 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:06,015 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:06,015 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/ControlMock.h
+2025-08-14 10:09:07,902 - Knowledge - INFO - persist search terms embedding for tests/mocks/ControlMock.h
+2025-08-14 10:09:10,802 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:09:11,199 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:09:12,188 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:12,189 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:12,189 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:09:12,301 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:09:12,604 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:09:14,189 - Knowledge - INFO - persist search terms embedding for tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-14 10:09:14,296 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:14,297 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:14,297 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:09:16,002 - Knowledge - INFO - persist search terms embedding for source/MediaPlayerClientBackendInterface.h
+2025-08-14 10:09:19,589 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:09:19,713 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:09:19,925 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:19,925 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:19,925 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/ControlBackendTests.cpp
+2025-08-14 10:09:21,914 - Knowledge - INFO - persist search terms embedding for tests/ut/ControlBackendTests.cpp
+2025-08-14 10:09:23,391 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:09:23,690 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:09:23,888 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:23,889 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:23,889 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:09:25,599 - Knowledge - INFO - persist search terms embedding for tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-14 10:09:36,902 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:09:37,392 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:09:37,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:37,589 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:37,589 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/build_ut.py
+2025-08-14 10:09:37,801 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:09:37,997 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:09:39,891 - Knowledge - INFO - persist search terms embedding for build_ut.py
+2025-08-14 10:09:40,210 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:40,210 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:40,210 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:09:42,095 - Knowledge - INFO - persist search terms embedding for tests/ut/WebAudioClientBackendTests.cpp
+2025-08-14 10:09:44,894 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:09:45,117 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:09:46,007 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:46,007 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:46,007 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:09:47,810 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-14 10:09:49,289 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:09:49,496 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:09:49,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:49,689 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:49,689 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:09:51,597 - Knowledge - INFO - persist search terms embedding for tests/mocks/WebAudioPlayerMock.h
+2025-08-14 10:09:51,799 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:09:52,095 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:09:52,302 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:52,302 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:52,303 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:09:54,291 - Knowledge - INFO - persist search terms embedding for tests/mocks/MediaPipelineClientMock.h
+2025-08-14 10:09:55,603 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:09:55,795 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:09:55,903 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:09:55,903 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:09:55,903 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:09:57,994 - Knowledge - INFO - persist search terms embedding for source/GStreamerWebAudioPlayerClient.cpp
+2025-08-14 10:10:00,208 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:10:00,405 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:10:01,506 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:01,506 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:01,506 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:10:03,310 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerMSEBaseSink.h
+2025-08-14 10:10:20,192 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:10:20,494 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:10:20,900 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:10:20,909 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:20,910 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:20,910 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:10:21,104 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:10:23,093 - Knowledge - INFO - persist search terms embedding for tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-14 10:10:23,502 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:23,503 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:23,503 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:10:25,192 - Knowledge - INFO - persist search terms embedding for source/RialtoGStreamerWebAudioSink.cpp
+2025-08-14 10:10:30,907 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:10:31,199 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:10:31,513 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:31,513 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:31,513 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:10:33,203 - Knowledge - INFO - persist search terms embedding for source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-14 10:10:39,915 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:10:40,109 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:10:40,988 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:40,989 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:40,989 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:10:42,416 - Knowledge - INFO - done ingest for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:10:43,005 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:10:45,889 - Knowledge - INFO - persist search terms embedding for source/GStreamerMSEMediaPlayerClient.h
+2025-08-14 10:10:47,009 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:47,009 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:47,009 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/tests/mocks/MediaPipelineMock.h
+2025-08-14 10:10:47,995 - Knowledge - ERROR - _service_ingest_queue had exception  for file /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/asyncio/tasks.py", line 500, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "/app/app/utils/kg_build/knowledge.py", line 1723, in _ingest_file
+    response = await llm.llm_interaction_wrapper(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/llm_wrapper/core/llm_interface.py", line 338, in llm_interaction_wrapper
+    completion = await invoke_llm()
+                 ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/llm_wrapper/core/llm_interface.py", line 284, in invoke_llm
+    return await loop.run_in_executor(None, blocking_call_wrapper)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/app/app/utils/kg_build/knowledge.py", line 324, in _service_ingest_queue
+    file_info = self.loop_worker.run_until_complete(asyncio.wait_for( knowledge._ingest_file(filename, self.mongo_handler), knowledge.timeout))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/asyncio/tasks.py", line 502, in wait_for
+    raise exceptions.TimeoutError() from exc
+TimeoutError
+2025-08-14 10:10:48,094 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-14 10:10:51,688 - Knowledge - INFO - persist search terms embedding for tests/mocks/MediaPipelineMock.h
+2025-08-14 10:10:51,697 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-6298.git:kavia-6.0.0-rc1
+2025-08-14 10:10:51,697 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f9c4da32550>
+2025-08-14 10:10:51,697 - Knowledge - INFO - persist ingested knowledge for /app/data/b2c/6298/b9357qg/rialto-gstreamer-6298/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-14 10:10:51,918 - Knowledge - INFO - Knowledge creation complete
+2025-08-14 10:10:51,920 - Knowledge - INFO - Updating org costs, total cost: 0.0326488
+2025-08-14 10:10:52,725 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-14 10:10:52,895 - Knowledge - INFO - Knowledge saved to Redis successfully
